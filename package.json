@@ -2,7 +2,7 @@
   "name": "react-sync-state",
   "version": "1.0.0",
   "description": "A React Helper that makes GLOBAL STATE",
-  "main": "src/SyncState.js",
+  "main": "index.js",
   "scripts": {
     "build": "webpack --mode production --config webpack.config.js --progress --clear"
   },
@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/PulsGarney/react-sync-state.git"
   },
-  "author": "Puls Garney <me@pulsgarney.com>",
+  "author": "Pete Parker <peter.bee.parker@gmail.com> (http://github.com/peterbee), Puls Garney <me@pulsgarney.com>",
   "license": "MIT",
+  "peerDependencies": {
+    "webpack": "^4.3.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.1.6",
     "@babel/preset-env": "^7.1.6",

@@ -7,7 +7,7 @@ module.exports = {
   },
   output: {
     filename: 'sync.umd.js',
-    path: path.resolve(__dirname, 'build'),
+    path: path.resolve(__dirname, 'lib'),
     library: 'react-sync-state',
     libraryTarget: 'umd',
     umdNamedDefine: true,
