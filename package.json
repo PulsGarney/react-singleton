@@ -1,6 +1,6 @@
 {
   "name": "@pulsgarney/react-sync-state",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React Helper that makes GLOBAL STATE",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/PulsGarney/react-sync-state.git"
   },
+  "keywords": ["pulsgarney", "react-sync-state", "react"],
   "author": "Pete Parker <peter.bee.parker@gmail.com> (http://github.com/peterbee), Puls Garney <me@pulsgarney.com>",
   "license": "MIT",
   "peerDependencies": {
