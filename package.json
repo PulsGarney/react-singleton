@@ -1,6 +1,6 @@
 {
   "name": "@pulsgarney/react-sync-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Helper that makes GLOBAL STATE",
   "main": "index.js",
   "scripts": {
